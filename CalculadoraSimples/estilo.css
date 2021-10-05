@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-size: 25px;
+    background-color: cornflowerblue;
+}
+span {
+    color: rgb(6, 53, 41);
+    font-style: italic;
+    font-weight: 200;
+    text-decoration: rgb(6, 53, 41) underline ;
+}
+button {
+    background-color: darkcyan;
+}
+input {
+    background-color: rgb(128, 211, 211);
+    font-style: italic;
+}
